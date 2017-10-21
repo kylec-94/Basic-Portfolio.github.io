@@ -1,0 +1,86 @@
+header {
+	background-color: #ebebeb;
+	position: static;
+	text-align: center;
+	height: 70px;
+	padding-top: 40px;
+	margin: 20px 200px 10px 200px
+
+}
+
+nav {
+	background-color: #ebebeb;
+	position: static;
+	text-align: center;
+	height: 70px;
+	padding-top: 40px;
+	margin: 20px 200px 10px 200px
+}
+
+aside {
+	float: right;
+	text-align: center;
+	height: 360px;
+	width: 750px;
+	background-color: #ebebeb;
+	margin-left: 20px;
+	margin-right: 200px;
+	margin-bottom: 20px;
+	text-align: center;
+	padding-top: 40px
+
+}
+
+body {
+	font-family: 'Ubuntu', sans-serif;
+	background-color: #777777;
+	margin: 0px
+}
+
+footer {
+	background-color: #ebebeb;
+	margin-bottom: 20px;
+	margin-top: 430px;
+	margin-left: 200px;
+	margin-right: 200px;
+	text-align: center;
+	height: 70px;
+	padding-top: 40px;
+	margin-bottom: 150px
+
+}
+
+section {
+	float: left;
+	background-color: #ebebeb;
+	position: relative;
+	height: 300px;
+	width: 800px;
+	margin-left: 200px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	text-align: center;
+	padding-top: 40px
+}
+
+article {
+	position: absolute;
+	background-color: #777777;
+	height:190px;
+	width: 700px;
+	margin: 90px 10px 10px 250px;
+	text-align: center;
+	margin-bottom: 20px;
+	padding-top: 30px
+}
+
+#stuff {
+	height: 100px;
+	width: 180px;
+	background-color: #ebebeb;
+	margin: 20px 20px 0px 510px;
+	text-align: center;
+	font-size: 16px
+
+}
